@@ -1,0 +1,5 @@
+aws_region               = "us-east-1"
+ecs_task_definition_name = "test-app-runner"
+ecs_container_name       = "test-app"
+ecs_cluster_name         = "test-app-cluster"
+ecs_service_name         = "test-app-service-runner"
